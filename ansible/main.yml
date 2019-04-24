@@ -1,0 +1,4 @@
+# master playbook
+- hosts: local
+  become: true
+  roles:
